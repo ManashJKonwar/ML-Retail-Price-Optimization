@@ -1,4 +1,4 @@
-# ML-Retail-Optimization
+# ML-Retail-Price-Optimization
 > This repository helps us to optimize different aspects of a product reaching any consumer which is primarily governed by addressing the concept of price optimization. 
 
 ## **Table of Contents**  
