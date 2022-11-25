@@ -32,7 +32,8 @@ AI is ideal for situations where a retailer needs to optimize across a wide asso
 ![price optimization flow](./assets/ml_project_lifecycle.jpg)
 
 ## **Technologies Used**
-- Python 
+- Python  
+- Nlopt
 
 ## **Features**
 
